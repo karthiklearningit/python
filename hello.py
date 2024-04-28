@@ -1,0 +1,1 @@
+print("Chase ur passion")
